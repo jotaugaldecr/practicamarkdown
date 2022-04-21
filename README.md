@@ -16,12 +16,12 @@ LOCAL
 *TEXTO EN ITALICA*
 **TEXTO EN NEGRITA**
 
-Lista numerada  
+Lista numerada    
 1.UNO
 2.DOS
 3.TRES
 
-Lista No numerada  
+Lista No numerada    
 -UN
     -item
     -item

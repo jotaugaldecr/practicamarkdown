@@ -28,14 +28,14 @@ Lista numerada
 
 Lista No numerada  
 
--UN  
+- UN  
 
-    -item  
+    - item  
     
-    -item  
+    - item  
     
-    -item  
+    - item  
     
--DOS  
+- DOS  
 
--TRES
+- TRES

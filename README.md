@@ -10,4 +10,4 @@ REMOTO
 ![](https://odi.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png)
 
 LOCAL
-![](LOGOUCR.PNG)
+![](LOGOUCR.png)

@@ -19,9 +19,12 @@ LOCAL
 
 Lista numerada  
 
-1.UNO
-2.DOS
-3.TRES
+1.UNO  
+
+2.DOS  
+
+3.TRES  
+
 
 Lista No numerada  
 

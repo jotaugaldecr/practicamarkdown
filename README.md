@@ -9,6 +9,11 @@ LOGO DE LA UCR
 REMOTO
 ![](https://odi.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png)
 
+MODIFICAR TAMAÑO LOGO CON TAG HTML
+
+<img src="https://odi.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png" alt="LOGO" width="624" height="322">
+
+
 LOCAL
 ![](LOGOUCR.png)
 
